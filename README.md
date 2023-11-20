@@ -1,4 +1,4 @@
-# **Planner for me**
+# **Pokedex**
 
 ![Badge Succesfull](https://img.shields.io/badge/STATUS-FINALIZED-green)
 
