@@ -61,6 +61,7 @@ https://schmeil-pokedex.netlify.app
 + Firebase
 + React
 + Vite
++ Javascript
 + PokeAPI
 
 ## Developers
